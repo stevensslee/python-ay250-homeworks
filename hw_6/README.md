@@ -8,7 +8,9 @@ Name: STEVEN LEE
 
 
 Problem 1:
-I randomly added convolutional, pooling, and dense layers together to create a network for the first part of the problem. Suprisingly, it did not train whatsoever. I also copied the network from the tensorflow tutorial here https://www.tensorflow.org/tutorials/images/classification, which also didn't train. Will investigate this problem in the future.
+I randomly added convolutional, pooling, and dense layers together to create a network for the first part of the problem. Suprisingly, it did not train whatsoever. I also copied the network from the tensorflow tutorial here https://www.tensorflow.org/tutorials/images/classification, which also didn't train. Will investigate this problem in the future, and check the confusion matrix to see if the copied network is an improvement. 
 
 Problem 2:
 I also copy-and-pasted the simple random forest classifier from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html, which also didn't train! Both the neural networks and random forest will be tuned, if time permits, for better results. 
+
+NOTE: I've run out of google colab gpu usage...
