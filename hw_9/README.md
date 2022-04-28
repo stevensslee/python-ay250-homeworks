@@ -8,9 +8,11 @@ Name: STEVEN LEE
 
 
 Asteroid Tracking:
+
 I could not improve upon the asteroid_solution.ipynb notebook in the asteroid folder. 
 
 Panorama Stitching:
+
 Three overlapping images of cows are used in adv3_panorama-stitching-solution.ipynb(the images are titled PXL_2021081*). The images were downsampled by a factor of 10 in x and y from 3024,4032 pixels to 303,404 pixels to speed up the ORB algorithm. The resulting cows can be seen in the cows_nolines.jpg and connected_black_and_white_cows.png. The colored reconstruction at the bottom of the notebook did not work.
 
 Image Stacking:
